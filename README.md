@@ -14,8 +14,7 @@ The following modules were tested:
 - User Login & Authentication
 - Product Search & Product Details
 - Add to Cart & Cart Management
-- Checkout & Order Confirmation
-- Pricing Accuracy
+- Checkout
 - UI Responsiveness across devices
 
 ---
@@ -31,8 +30,7 @@ The following modules were tested:
 
 ## 🛠️ Tools Used
 - Test Documentation: Manual Test Cases, Bug Reports  
-- Bug Tracking: GitHub  
-- Browser Testing: Chrome DevTools  
+- Bug Tracking: GitHub   
 
 ---
 
